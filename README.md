@@ -18,5 +18,7 @@ Raw genetic data: Available through the NCBI SRA (     )
 
 ![Phylogeographic_structure_armadillos](https://github.com/user-attachments/assets/754059c6-2955-4de0-8b58-06039a1a093e)
 
+Note: This image has been generated using Generative AI using Microsoft Co-pilot.
+
 
 
